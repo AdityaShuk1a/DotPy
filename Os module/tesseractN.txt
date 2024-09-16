@@ -1,0 +1,14 @@
+START SURVEY
+
+Online Polling for Community Development Project-UG(24251)
+to check the polling options for Community Development Project
+
+1. Name of the NGO for Community Development Project-Term (24251) *
+\Vishwam Foundation
+
+2. Address of the NGO for Community Development Project-Term (24251) *
+
+53 Minas Vihar, Kurmanc|
+
+(* Mandatory Questions)
+
