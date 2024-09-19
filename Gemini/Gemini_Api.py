@@ -14,7 +14,7 @@ Modules to import:
 #Add your own API key
 
 
-genai.configure(api_key="AIzaSyB08v09fsHmR9I39sXx81bvE2pOHaDzz0Y")
+genai.configure(api_key="apikey")
 
 # Create the model
 generation_config = {
