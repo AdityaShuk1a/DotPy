@@ -13,7 +13,7 @@ $ pip install google-generativeai
 
 
 
-genai.configure(api_key=os.environ["AIzaSyB08v09fsHmR9I39sXx81bvE2pOHaDzz0Y"])
+genai.configure(api_key=os.environ[""])
 
 # Create the model
 generation_config = {
