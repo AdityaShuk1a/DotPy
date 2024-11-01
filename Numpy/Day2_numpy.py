@@ -10,6 +10,3 @@ iter = iter[filterr]
 
 print(iter)
 
-with open ("text.txt", w):
-    
- 
